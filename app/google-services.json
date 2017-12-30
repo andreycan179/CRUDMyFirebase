@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "403784896067",
+    "firebase_url": "https://mispruebas-a8a98.firebaseio.com",
+    "project_id": "mispruebas-a8a98",
+    "storage_bucket": "mispruebas-a8a98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403784896067:android:71cc429d430efe1c",
+        "android_client_info": {
+          "package_name": "com.aplicaciones.destroyer.myfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "403784896067-2atm2ts3emkopc97dcu43r7rbigc82au.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjblKuUaJomFIse0aIS0ok051Fn6R0B20"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
